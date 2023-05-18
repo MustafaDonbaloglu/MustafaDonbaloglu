@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MustafaDonbaloglu
 - 👀 I’m interested in cyber security and software
-- 🌱 I’m currently learning HTML&CSS&JS
+- 🌱 I’m currently learning C & C# & C++
+- 🌱 I'm intermediate in HTML&CSS, Python
 - 📫 How to reach me <mustafa.donbaloglu080@gmail.com>
 
 <!---
